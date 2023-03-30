@@ -24,3 +24,4 @@ export const addWishlist = (product) => ({
     type: actionTypes.addWishlist,
     payload: product
 });
+  
